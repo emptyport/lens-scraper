@@ -1,0 +1,70 @@
+[
+    {
+        "id": "f97bda46-0596-4c19-ac53-f69aa9ba1a82",
+        "name": "Reaction Overlay",
+        "iconUrl": "https://lens-storage.storage.googleapis.com/png/d61cdf242cc241ca949171fa03fc1413",
+        "previewUrl": "https://community-lens.storage.googleapis.com/preview-media/final/737a6345-00b9-4d79-880e-d19c80ab2457.mp4",
+        "tagsList": ["react", "explain", "video", "greenscreen"],
+        "scanTriggersList": ["Person"],
+        "visibility": "VISIBILITY_PUBLIC",
+        "status": "LENS_STATUS_LIVE",
+        "distributionsList": [
+            {
+                "destinationId": "5aa84e96-e790-4489-84c0-bd39bba4e3a5",
+                "destinationType": "DESTINATION_TYPE_COMMUNITY",
+                "__typename": "Distribution"
+            }
+        ],
+        "updatedAt": {
+            "nanos": 35000000,
+            "seconds": 1690905929,
+            "__typename": "GoogleProtobufTimestamp"
+        },
+        "updatedBy": "",
+        "snapcode": {
+            "imageUrl": "https://snapcodes.storage.googleapis.com/png/3c988782-064b-38b5-89ab-ec022de7c396_320_2557e48d-bbd9-4c04-ae47-48d65e792e4f.png",
+            "deeplink": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=a5beb98ec6724911b7553269c6855ed2&metadata=01",
+            "expiresAt": null,
+            "isTemporary": false,
+            "__typename": "Snapcode"
+        },
+        "primaryCategoryId": "",
+        "secondaryCategoryId": "",
+        "discoverability": null,
+        "__typename": "Lens"
+    },
+    {
+        "id": "1f454c97-05d4-4bee-84a9-d45610164f46",
+        "name": "Puppy Power",
+        "iconUrl": "https://lens-storage.storage.googleapis.com/png/013a3e11-b3db-443a-9783-0443fe344148",
+        "previewUrl": "https://community-lens.storage.googleapis.com/preview-media/final/b8283ce7-2adc-4e90-9aef-69d861e6ab13.mp4",
+        "tagsList": ["kitty", "dog", "kitten", "face", "cat", "puppy"],
+        "scanTriggersList": [],
+        "visibility": "VISIBILITY_PUBLIC",
+        "status": "LENS_STATUS_LIVE",
+        "distributionsList": [
+            {
+                "destinationId": "5aa84e96-e790-4489-84c0-bd39bba4e3a5",
+                "destinationType": "DESTINATION_TYPE_COMMUNITY",
+                "__typename": "Distribution"
+            }
+        ],
+        "updatedAt": {
+            "nanos": 875000000,
+            "seconds": 1571594906,
+            "__typename": "GoogleProtobufTimestamp"
+        },
+        "updatedBy": "",
+        "snapcode": {
+            "imageUrl": "https://snapcodes.storage.googleapis.com/png/c3162720-6cb7-36c9-a5b8-cfcecf88b2a0_320_cfe32dab-136d-4c4d-877c-e7441d7fc099.png",
+            "deeplink": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=8341e4d7b3184edbb451058d26e4586e&metadata=01",
+            "expiresAt": null,
+            "isTemporary": false,
+            "__typename": "Snapcode"
+        },
+        "primaryCategoryId": "SCAT_7",
+        "secondaryCategoryId": "",
+        "discoverability": null,
+        "__typename": "Lens"
+    }
+]
